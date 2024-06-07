@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **React, Express and Django**
+- 💬 Ask me about **React, Express and Next**
 
 - 📫 How to reach me **vaivaswat2244@gmail.com**
 
