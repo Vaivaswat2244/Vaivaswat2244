@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaivaswat</h1>
 <h3 align="left">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **React, Express and Next**
-
 - 📫 How to reach me **vaivaswat2244@gmail.com**
 
 - ⚡ Fun fact **I think I can sing**
