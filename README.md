@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaivaswat</h1>
-<h3 align="left">A passionate full stack developer from India</h3>
+<h3 align="left">Rock n Roll</h3>
 
 - 📫 How to reach me **vaivaswat2244@gmail.com**
 
