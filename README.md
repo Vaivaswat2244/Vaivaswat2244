@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### Systems person by default — low-level networking, OS internals, and anything that involves reading a kernel doc at 2am...
+### Systems person by default --- low-level networking, OS internals, and anything that involves reading a kernel doc at 2am...
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
