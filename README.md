@@ -62,10 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vaivaswat2244&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaivaswat2244&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top languages" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=Vaivaswat2244&theme=dark" alt="GitHub stats" />
   </a>
 </p>
 </br>
@@ -91,13 +88,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </a>
-
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
 
 *************
