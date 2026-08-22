@@ -9,6 +9,8 @@
 </br>
 
 
+
+
 # About ME 💬 :
 
 ### Systems person by default --- low-level networking, OS internals, and anything that involves reading a kernel doc at 2am...
@@ -20,6 +22,8 @@
 - ✨ eBPF and OVN-Kubernetes
 - ✨ Distributed systems + observability (tracing, RCA for microservices)
 - ✨ Controllers, CRDs, and operator patterns that don't collapse under load
+
+![](https://komarev.com/ghpvc/?username=Vaivaswat2244)
 
 ### - Hobbies : 
 - ✨ Guitar Playaa
